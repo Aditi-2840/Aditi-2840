@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/main/Hi,_I'm_Aditi_Kumari.png"/></a>
+<img align="center" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/main/back.png"/></a>
 <h1 align="center">Hi 👋, I'm Aditi Kumari</h1>
 <h3 align="center">Student from CSE domain and interested in Full Stack Development and Competitive Coding and Exploring new things.</h3>
 
