@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://Aditi-2840.github.io)
+
 <h1 align="center">Hi 👋, I'm Aditi Kumari</h1>
 <h3 align="center">Student from CSE domain and interested in Full Stack Development and Competitive Coding and Exploring new things.</h3>
 
