@@ -12,7 +12,7 @@
 <img alt="Competitive Coder" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/master/competitive_coder.gif" align="right"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/aditi-kumari-856163176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditi-kumari-856163176" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aditi-kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aditi-kumari" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kaditi2840" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaditi2840" height="30" width="40" /></a>
