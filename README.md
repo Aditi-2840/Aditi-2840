@@ -1,13 +1,13 @@
 <img align="center" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/main/back.png"/></a>
 <h1 align="center">Hi 👋, I'm Aditi Kumari</h1>
-<h3 align="center">Student from CSE domain and interested in Full Stack Development and Competitive Coding and Exploring new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-2840&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-2840" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-2840&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-2840"/> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🌱 I’m currently learning **Data Structure and Algorithm.**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/aditikumari/home](https://sites.google.com/view/aditikumari/home)
+- 🎓 &nbsp;I'm currently currently pursuing B.Tech in the domain of CSE Branch from GIET University, Gunupur.\
+- 💡 &nbsp;I love to exploring new skills and technology daily and seeking out new opportunities.\
+- 👨‍💻 Please have a look at my portfolio [https://sites.google.com/view/aditikumari/home](https://sites.google.com/view/aditikumari/home)
 
 <img alt="Competitive Coder" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/master/competitive_coder.gif" align="right"/>
 
