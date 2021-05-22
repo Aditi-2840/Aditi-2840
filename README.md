@@ -5,8 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🌱 I’m currently learning **Data Structure and Algorithm.**
-- 🎓 &nbsp;I'm currently currently pursuing B.Tech in the domain of CSE Branch from GIET University, Gunupur.\
-- 💡 &nbsp;I love to exploring new skills and technology daily and seeking out new opportunities.\
+- 🎓 &nbsp;I'm currently currently pursuing B.Tech in the domain of CSE Branch from GIET University, Gunupur.
+- 💡 &nbsp;I love to exploring new skills and technology daily and seeking out new opportunities.
 - 👨‍💻 Please have a look at my portfolio [https://sites.google.com/view/aditikumari/home](https://sites.google.com/view/aditikumari/home)
 
 <img alt="Competitive Coder" src="https://raw.githubusercontent.com/Aditi-2840/Aditi-2840/master/competitive_coder.gif" align="right"/>
