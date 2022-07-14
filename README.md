@@ -33,4 +33,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditi-2840&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditi-2840&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<h3> ⚙️&nbsp; Leetcode Stats</h3>
+<a href="[https://github.com/JacobLinCool/LeetCode-Stats-Card](https://leetcode.com/kaditi2840/)" target="_blank">
+<img title="Aditi's LeetCode Stats" alt="Aditi's LeetCode Stats" src="https://leetcard.jacoblin.cool/kaditi2840?theme=light&font=IM%20Fell%20Double%20Pica%20SC" />
+</a>
 </p>
